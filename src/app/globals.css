@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* logo */
+  .logo-ticker {
+    @apply h-8 w-auto;
+  }
+
+  .section-title {
+    @apply text-center text-5xl font-medium tracking-tight text-white md:text-6xl;
+  }
+
+  .section-description {
+    @apply mx-auto mt-5 max-w-2xl text-center text-lg text-white/70 md:text-xl;
+  }
+}
