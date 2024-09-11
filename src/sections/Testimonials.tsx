@@ -41,7 +41,7 @@ export const Testimonials = () => {
       <div className="container">
         <h2 className="section-title">Beyond Expectations.</h2>
         <p className="section-description max-w-sm">
-          Our revolutionary AI SEO tools have transformed our clients'
+          Our revolutionary AI SEO tools have transformed our clients
           strategies.
         </p>
         <div className="mt-10 flex overflow-hidden [mask-image:linear-gradient(to_right,transparent,black_20%,black_80%,transparent)]">
